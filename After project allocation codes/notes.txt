@@ -1,0 +1,8 @@
+Programming Languages
+CPP, JAVA, PYTHON, RUBY
+Wild Animals
+Lion, Tiger, Leopard, Cheetah, Bear, Girraf, zebra, Deer, Hippo, Rhino
+CARS
+LAMBORGINI, FERRARI, BUGAATTI, AUDI
+BIKES
+HUNTER, DUKE, KTM, BULLET, PULSAR
